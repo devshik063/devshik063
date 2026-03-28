@@ -1,5 +1,7 @@
 ## About Me👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,java)](https://skillicons.dev)
+Hi, I'm Divyansh Singh, currently pursuing an Integrated M.Tech in Artificial Intelligence (Batch 2025), with a strong interest in software development and problem-solving, and I am focused on continuously improving my skills by building real-world projects and strengthening my understanding of core concepts in programming and AI.
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,cpp,java)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 <!--
 **devshik063/devshik063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
