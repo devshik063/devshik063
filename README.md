@@ -8,7 +8,7 @@ Hi, I'm Divyansh Singh, currently pursuing an Integrated M.Tech in Artificial In
 ## Social Links 
 <p align="left">
   <a href="https://www.instagram.com/divyyansh_063/">
-    <img src="https://skillicons.dev/icons?instagram" />
+    <img src="https://skillicons.dev/icons?i= instagram" />
   </a>
   <a href="https://www.linkedin.com/in/divyansh-singh-10648a339/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
