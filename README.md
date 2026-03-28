@@ -6,13 +6,14 @@ Hi, I'm Divyansh Singh, currently pursuing an Integrated M.Tech in Artificial In
 
 [![Tools](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 ## Social Links 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-singh-10648a339/)
-
-[![Instagram](https://www.howtogeek.com/778866/how-to-get-your-instagram-link/)](https://www.instagram.com/divyyansh_063/)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:divyanshs.0063@gmail.com)
-
-
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyansh-singh-10648a339/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 <!--
 **devshik063/devshik063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
